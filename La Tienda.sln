@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "La Tienda", "La Tienda\La Tienda.csproj", "{DCAD5E64-4AA7-4EF4-AC8D-8D8E6351C70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestLaTienda", "UnitTestLaTIenda\UnitTestLaTienda.csproj", "{21EF1290-305B-4C8B-92DA-E390D05D5CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCAD5E64-4AA7-4EF4-AC8D-8D8E6351C70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAD5E64-4AA7-4EF4-AC8D-8D8E6351C70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAD5E64-4AA7-4EF4-AC8D-8D8E6351C70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAD5E64-4AA7-4EF4-AC8D-8D8E6351C70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EF1290-305B-4C8B-92DA-E390D05D5CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF1290-305B-4C8B-92DA-E390D05D5CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF1290-305B-4C8B-92DA-E390D05D5CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF1290-305B-4C8B-92DA-E390D05D5CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1E330A-D378-421B-913D-4A51B5AF95EE}
+	EndGlobalSection
+EndGlobal
